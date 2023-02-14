@@ -1,3 +1,4 @@
+// Copyright 2023
 #ifndef CSC109CH07_31B_TRIANGLE_H
 #define CSC109CH07_31B_TRIANGLE_H
 

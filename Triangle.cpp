@@ -1,3 +1,4 @@
+// Copyright 2023
 #include "Triangle.h"
 #include <iostream>
 #include <cmath>
@@ -21,8 +22,7 @@ void Triangle::SetHeight(double userHeight)
 
 double Triangle::GetArea() const
 {
-    // return (base * height) / 2;
-    return area;
+    return (base * height) / 2;
 }
 
 void Triangle::PrintInfo() const
